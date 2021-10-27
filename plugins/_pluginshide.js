@@ -12,3 +12,5 @@ const PL = require("plugins/hideplugins.py")
 #anti group link
 #spam kick Added
 #Group Crash Added
+#Whatsapp status auto seen 
+#Whatsapp call block
