@@ -25,9 +25,15 @@ $ pkg install node
 ```
 ### termux or console  එකක් මගින් qr එක ලබා ගැනීමට පහත කමාන්ඩ් යොදන්න
 ```
+$ rm -rf sew
 $ git clone https://github.com/Sew01RaviduManoj01KingAndQueen/sew.git
 $ cd sew
 $ npm i
+$ node qr.js
+```
+ඉහත ආකාරය එක් වරක් සකස් කර ගත් පසු ඔබට පහත ආකාරයට ඉතා ලේසියෙන් qr කෝඩය ලබා ගත හැක
+```
+$ cd sew
 $ node qr.js
 ```
 
